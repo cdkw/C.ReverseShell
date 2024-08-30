@@ -1,0 +1,1 @@
+gcc creverse.c -o USBDrivers.exe -lws2_32 -s -ffunction-sections -fdata-sections -Wno-write-strings -fno-exceptions -fmerge-all-constants -lwininet -static-libstdc++ -static-libgcc -mwindows
