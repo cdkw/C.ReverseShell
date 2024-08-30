@@ -37,7 +37,7 @@ gcc creverse.c -o USBDrivers.exe -lws2_32 -s -ffunction-sections -fdata-sections
 * NOTE: To change its name from `USBDrivers.exe` to something else make sure to also modify `line 161` to match your filename.
 
 
-### **⚠️ MUST READ - Legal notice**
+### **⚠️ Legal notice**
 
 This code is provided for **EDUCATIONAL PURPOSES ONLY**. It is intended to demonstrate certain programming concepts and techniques related to network communication and process control. This code should **NOT be used** for any malicious or unauthorized activities.
 
